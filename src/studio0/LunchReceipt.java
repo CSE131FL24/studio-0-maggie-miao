@@ -6,7 +6,8 @@ public class LunchReceipt {
 		
 		double burritoPrice = 7.5;
 		double drinkPrice = 1.25;
-		double chipsPrice = 1.00;
+
+	    double chipsPrice = 1.00;
 		double guacPrice = 2.50;
 		
 		double subtotal = burritoPrice + drinkPrice + chipsPrice + guacPrice;
